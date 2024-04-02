@@ -9,4 +9,4 @@ spec:
   - name: http
     protocol: TCP
     port: 8081
-    targetPort: http-web-svc
+    targetPort: 80
